@@ -27,4 +27,5 @@ Olá, pessoal!
 Decidi criar este repositório para compartilhar com vocês todo o conhecimento e as habilidades que tenho aprendido nos últimos meses. Aqui você encontrará projetos em que trabalhei durante os cursos que fiz, bem como alguns projetos pessoais! Fiquem à vontade para dar uma olhada e compartilhar suas opiniões comigo. O conhecimento deve ser compartilhado e livre, acessível a todos. Agora, estou tentando fazer a minha parte!
 
 Com os melhores cumprimentos,
+
 Tauan, O Panda!
